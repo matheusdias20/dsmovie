@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="frontend/src/assets/img/README.png" alt="">
+  <img src="frontend/src/assets/img/README1.png" alt="">
 </p>
 
 
